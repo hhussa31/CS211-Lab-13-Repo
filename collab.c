@@ -21,11 +21,17 @@ void reed_ekidan2() {
   printf("We learned that git and GitHub are amazing, powerful tools!\n");
 }
 
+void mdharm3_hhussa31() {
+  printf("Michelle Dharma and Hafsa Hussain\n");
+  printf("We learned that git can be a helpful tool to keep track of changes made in a code as well as allow multiple developers to collaborate on a code. Git has many advantages, such as its branching capabilites, flexibility, and its ability to record various versions of a program. This allows programmers to access older version of their code in case future versions of the code causes issues.  \n");
+}
+
 int main()
 {
     printf("This code has been created by the students of CS 211, Fall 2022!\n\n");
     
     reed_ekidan2();
+    mdharm3_hhussa31();
     
     return 0;
 }
